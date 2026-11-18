@@ -21,7 +21,7 @@ const hobi = [
 
 export const metadata = {
     title:"Tentang",
-    description:"cerita,hobi,cita-cita dan jadwal belajar Azqal Andhika F"
+    description:"cerita,hobi,cita-cita dan jadwal belajar Rizqi Zamzami"
 };
 
 export default function () {

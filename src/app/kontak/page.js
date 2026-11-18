@@ -4,7 +4,7 @@ import FormKontak from "@/components/FormKontak";
 
 export const metadata = {
     title: "Kontak",
-    description: "daftar proyek HTML, CSS dan JavaScript karya Azqal Andhika"
+    description: "daftar proyek HTML, CSS dan JavaScript karya Rizqi Zamzami"
 };
 
 export default function Kontak() {

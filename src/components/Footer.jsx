@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="mt-auto bg-utama p-6 text-center text-latar">
             <p className="text-sm text-muted-foreground dark:textgray-400">
-                &copy; {tahun} Azqal Andhika Fabiansyah. Dibuat Next.js di Kelas Industri UBIG
+                &copy; {tahun} Rizqi Zamzami. Dibuat Next.js di Kelas Industri UBIG
             </p>
         </footer>
     );

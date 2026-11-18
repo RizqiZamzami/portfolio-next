@@ -4,7 +4,7 @@ import { supabase } from "@/lib/supabase";
 
 export const metadata = {
     title:"Proyek",
-    description:"Hubungi Azqal Andhika melalui form kontak, email, atau GitHub"
+    description:"Hubungi Rizqi Zamzami melalui form kontak, email, atau GitHub"
 };
 
 export default async function DaftarProyek() {

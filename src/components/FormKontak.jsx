@@ -49,7 +49,7 @@ export default function FormKontak () {
                  name="nama"
                  value={nama}
                  onChange={(e) => setNama (e.target.value)}
-                 placeholder="contoh: Azqal Andhika"
+                 placeholder="contoh: Azm"
                  className={classInput}
                 />
                 {error.nama && <p className={classError}>{error.nama}</p>}
