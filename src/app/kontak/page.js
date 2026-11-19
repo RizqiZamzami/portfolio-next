@@ -21,7 +21,7 @@ export default function Kontak() {
                 <div className=" bg-card p-4 rounded-lg">
                     <h2 className="text-primary dark:textsky-200 font-bold text-2xl">Temukan Saya di</h2>
                     <p>GitHub</p>
-                    <a href="https://github.com/AZQAL">azqalrpl@gmail.com</a>
+                    <a href="https://github.com/AZQAL">rizqizamzami05@gmail.com</a>
                 </div>
             </div>
 

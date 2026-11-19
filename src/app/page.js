@@ -17,7 +17,7 @@ export default async function Home () {
   .select("*")
   .order("id");
 
-  const Nama = "M. Rizqi Zamzami"
+  const Nama = "Rizqi Zamzami"
   const TahunLahir = 2009
 
   return (
