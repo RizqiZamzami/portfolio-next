@@ -17,13 +17,13 @@ export default async function Home () {
   .select("*")
   .order("id");
 
-  const Nama = "Rizqi Zamzami"
+  const Nama = "M. Rizqi Zamzami"
   const TahunLahir = 2009
 
   return (
     <main className="mx-auto w-full max-w-5xl px-4 py-10">
       <Hero
-      nama="Rizqi Zamzami"
+      nama="M. Rizqi Zamzami"
       tagline="saya siswa SMKN1 PASURUAN jurusan REKAYASA PERANGKAT LUNAK"
       />
 

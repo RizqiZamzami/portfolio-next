@@ -16,7 +16,7 @@ export default function () {
             onClick={gantiTema}
             className="rounded-lg border border-white px-3 py-1 text-sm font-semibold text-white hover:border-aksen hover:bg-aksen"
         >
-            {gelap ? "mode terang" : "mode gelap"}
+            {gelap ? "Mode terang" : "Mode gelap"}
         </button>
     )
 }

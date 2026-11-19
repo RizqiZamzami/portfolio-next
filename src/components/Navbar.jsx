@@ -17,7 +17,7 @@ export default function Navbar () {
     return (
         <header className="bg-utama text-white flex-row">
             <nav className="mx-auto max-w-5xl flex flex-col gap-3 px-4 py-4 md:flex-row md:items-center md:justify-between">
-                <Link href="/" className="text-xl font-bold">Rizqi Zmzami</Link>
+                <Link href="/" className="text-xl font-bold">Rizqi Zamzami</Link>
 
                 <ul className="flex flex-wrap gap-x-5  gap-y-2">
                 {menu.map((item) => {
