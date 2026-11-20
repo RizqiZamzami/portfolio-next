@@ -49,7 +49,7 @@ export default function FormKontak () {
                  name="nama"
                  value={nama}
                  onChange={(e) => setNama (e.target.value)}
-                 placeholder="contoh: Azm"
+                 placeholder="contoh: Cr7"
                  className={classInput}
                 />
                 {error.nama && <p className={classError}>{error.nama}</p>}
@@ -103,7 +103,7 @@ export default function FormKontak () {
                  name="pesan"
                  value={pesan}
                  onChange={(e) => setPesan (e.target.value)}
-                 placeholder="contoh: example@gmail.com"
+                 placeholder="contoh: Halo saya ---"
                  className={classInput}
                 />
                 {error.pesan && <p className={classError}>{error.pesan}</p>}

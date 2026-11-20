@@ -1,22 +1,22 @@
 import Kartu from "@/components/Kartu";
 
 const hobi = [
-    "Volly",
-    "Badminton",
+    "Sepak Bola",
+    "Mendaki",
     "Coding",
   ]
   
   const citaCita = [
-    "menjadi pembisnis",
-    "menjadi web developer",
-    "sukses dalam segala hal"
+    "Menjadi Pembisnis",
+    "Menjadi Web developer",
+    "Sukses dalam segala hal"
   ]
   
   const jadwals = [
-    {hari:"Senin", waktu:"07.00-14.25", kegiatan:"membaca modul"},
-    {hari:"Selasa", waktu:"07.00-14.25", kegiatan:"mengerjakan tugas praktik"},
-    {hari:"Rabu", waktu:"07.00-14.25", kegiatan:"eval error"},
-    {hari:"Kamis", waktu:"07.00-14.25", kegiatan:"merekam video dan menulis laporan"}
+    {hari:"Kamis", waktu:"07.00-10.00", kegiatan:"Membaca modul"},
+    {hari:"Kamis", waktu:"10.00-14.25", kegiatan:"Mengerjakan tugas praktik"},
+    {hari:"Jum'at", waktu:"19.00-22.00", kegiatan:"Eval error"},
+    {hari:"Sabtu", waktu:"07.00-10.00", kegiatan:"Merekam video dan menulis laporan"}
   ]
 
 export const metadata = {
